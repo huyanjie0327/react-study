@@ -1,0 +1,5 @@
+1. npm install -g cnpm --registry=https://registry.npm.taobao.org
+2. npm install -g webpack webpack-dev-server
+
+阮一峰的webpack教程
+https://www.cnblogs.com/worldly1013/p/5989863.html
